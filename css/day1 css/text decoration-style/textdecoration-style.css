@@ -1,0 +1,18 @@
+.a1
+{
+    text-decoration: overline;
+    text-decoration-style: dashed;
+    text-decoration-color: aqua;
+}
+.a2
+{
+    text-decoration:underline;
+    text-decoration-style: solid;
+    text-decoration-color: brown;
+}
+.a3
+{
+    text-decoration: line-through;
+    text-decoration-style:dotted;
+    text-decoration-color: blue;
+}

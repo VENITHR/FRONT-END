@@ -1,0 +1,16 @@
+.a1
+{
+    text-transform: capitalize;
+}
+.a2
+{
+    text-transform: lowercase;
+}
+.a3
+{
+    text-transform: uppercase;
+}
+.a4
+{
+    text-transform: none;
+}
